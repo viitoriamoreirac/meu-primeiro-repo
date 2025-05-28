@@ -4,6 +4,12 @@
 ### Repositório feito para fins educativos durante curso introdutório de *Git* e *GitHub*
 
 ### Sobre nós:
+| Nome         | Github |
+|--------------|-------|
+| Vitória Caroline    | [viitoriamoreirac](https://github.com/viitoriamoreirac/)   | 
+| Participante2  |     | 
+| Participante3   |     |
+| Participante4  |     |
 
 Vitória Caroline, 22 anos, estudante de Sistemas de Informação e participante da trilha de QA.
 
